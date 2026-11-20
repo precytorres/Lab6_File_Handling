@@ -1,0 +1,5 @@
+Student: Torres
+Student ID: TUPM-26-7944
+Seed digit: 4
+ID sum: 32
+Verification value: 196

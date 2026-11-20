@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Torres
+Student ID: TUPM-26-7944
+Seed Digit: 4
+ID Sum: 32
+Verification Value: 196
+Dataset Sample Size: 82
+Valid Records: 82
+Average Global Active Power: 3.921
+JSON File: Torres_TUPM-26-7944_record.json
+Backup File: Torres_TUPM-26-7944_record.csv
