@@ -1,0 +1,23 @@
+HOUSEHOLD POWER CONSUMPTION ANALYSIS
+Total Rows: 2075259
+
+Missing Values:
+Global_active_power      25979
+Global_reactive_power    25979
+Voltage                  25979
+Global_intensity         25979
+Sub_metering_1           25979
+Sub_metering_2           25979
+Sub_metering_3           25979
+
+Average Consumption:
+Global_active_power        1.091615
+Global_reactive_power      0.123714
+Voltage                  240.839858
+Global_intensity           4.627759
+Sub_metering_1             1.121923
+Sub_metering_2             1.298520
+Sub_metering_3             6.458447
+
+Max Voltage: 254.15
+Min Voltage: 223.2

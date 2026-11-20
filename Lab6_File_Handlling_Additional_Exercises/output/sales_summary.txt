@@ -1,0 +1,31 @@
+ONLINE SALES ANALYSIS
+Total Rows: 240
+
+Total Sales per Category:
+Product Category
+Beauty Products     2621.90
+Books               1861.93
+Clothing            8128.93
+Electronics        34982.41
+Home Appliances    18646.16
+Sports             14326.52
+
+Total Sales per Region:
+Region
+Asia             22455.45
+Europe           21268.06
+North America    36844.34
+
+Top 5 Most Sold Products:
+Product Name
+Hanes ComfortSoft T-Shirt                  10
+The Catcher in the Rye by J.D. Salinger     7
+Yeti Rambler Tumbler                        6
+Gap Essential Crewneck T-Shirt              6
+Spalding NBA Street Basketball              6
+
+Payment Method Counts:
+Payment Method
+Credit Card    120
+PayPal          80
+Debit Card      40

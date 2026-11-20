@@ -1,0 +1,34 @@
+WEBLOG ANALYSIS
+Total Rows: 16007
+
+Top 5 IP:
+IP
+10.128.2.1    4257
+10.131.0.1    4198
+10.130.2.1    4056
+10.129.2.1    1652
+10.131.2.1    1626
+
+Top 5 URL:
+URL
+GET /login.php HTTP/1.1                                                         3284
+GET /home.php HTTP/1.1                                                          2640
+GET /js/vendor/modernizr-2.8.3.min.js HTTP/1.1                                  1415
+GET / HTTP/1.1                                                                   861
+GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1     467
+
+Status Counts:
+Staus
+200             11330
+302              3498
+304               658
+404               251
+No                167
+206                52
+2018]              28
+2017]               7
+dumped              5
+Assertion           4
+Aborted             4
+found               2
+Segmentation        1
